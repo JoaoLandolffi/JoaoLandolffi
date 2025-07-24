@@ -2,6 +2,7 @@
 <h3 align="center">I'm a backend developer who enjoys transforming complex problems into simple and functional solutions. I work with C#, JavaScript, MySQL, and other tools that help me deliver impressive results quickly and efficiently.</h3>
 
 - 📫 How to reach me **landolffi2@gmail.com**
+- WhatsUp 065 99299-9076
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
