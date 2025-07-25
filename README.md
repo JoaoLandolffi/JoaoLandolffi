@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a backend developer who enjoys transforming complex problems into simple, functional solutions. I work with C#, JavaScript, MySQL, and other tools that help me deliver impressive results quickly and efficiently.
+I'm a backend developer who enjoys transforming complex problems into simple, functional solutions. I work with C#, MySQL, and other tools that help me deliver impressive results quickly and efficiently.
 
 
 ## 🌐 Socials:
